@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/KStar-coder/KStar-coder/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kaustav Sharma</h1>
 <h3 align="center">A Tech enthusiast interested in Machine Learning and App Development</h3>
 
