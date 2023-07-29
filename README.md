@@ -5,9 +5,9 @@
 
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Machine Learning, Flutter**
+- 🌱 I’m currently learning **Machine Learning, Flutter, Java JDBC, Spring**
 
-- 💬 Ask me about **DSA and Machine Learning**
+- 💬 Ask me about **DSA, Machine Learning, Java**
 
 - 📫 How to reach me **sharmakaustav04@gmail.com**
 
