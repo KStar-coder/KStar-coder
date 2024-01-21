@@ -1,7 +1,8 @@
 ![logo](https://github.com/KStar-coder/KStar-coder/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kaustav Sharma</h1>
 <h3 align="center">A Tech enthusiast interested in Machine Learning and software development</h3>
-<h3 align="center">Java developer intern at Highradius Corporation</h3>
+<h3>Here's my Portfolio Website displaying all my recent work </h3> <a href="https://kaustav-sharma.vercel.app/"><h3 align="center">Portfolio Website</h3></a>
+
 
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **sharmakaustav04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C1-tHhHK2H_6fgegSHaQThNl5nloXZH4/view?usp=sharing](https://drive.google.com/file/d/1C1-tHhHK2H_6fgegSHaQThNl5nloXZH4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C1-tHhHK2H_6fgegSHaQThNl5nloXZH4/view?usp=sharing](https://drive.google.com/file/d/1C1-tHhHK2H_6fgegSHaQThNl5nloXZH4/view?usp=sharing](https://drive.google.com/file/d/1-I5dOjg5jE8TbTxnYL1okOJj2cWxU4k1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
