@@ -1,19 +1,19 @@
 ![logo](https://github.com/KStar-coder/KStar-coder/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kaustav Sharma</h1>
-<h3 align="center">A Tech enthusiast interested in Machine Learning and software development</h3>
+<h3 align="center">A Tech enthusiast interested in Machine Learning and Web Development</h3>
 <h3><center>Here's my Portfolio Website displaying all my recent work</center></h3> 
 <a href="https://kaustav-sharma.vercel.app/">My Portfolio Website</a> 
 
 
 <img align = "right" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently working on **Machine Learning, Javascript, React, Java JDBC as well as Springboot**
+- 🌱 I’m currently working on **ReactJS, Tailwind, Machine Learning, Java JDBC as well as Springboot**
 
-- 💬 Ask me about **DSA, Machine Learning, Java**
+- 💬 Ask me about **DSA, Machine Learning, ReactJS, Javascript**
 
 - 📫 How to reach me **sharmakaustav04@gmail.com**
 
-- 📄 Know about my experiences : https://drive.google.com/file/d/1-I5dOjg5jE8TbTxnYL1okOJj2cWxU4k1/view?usp=sharing
+- 📄 <a href = "https://drive.google.com/file/d/1RYojgoL0AgPH7qd6Wkt0ppLlYdka0A9X/view?usp=sharing">Know about my experiences </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
