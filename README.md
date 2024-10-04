@@ -16,7 +16,6 @@
 📄 <a href = "https://drive.google.com/file/d/1RYojgoL0AgPH7qd6Wkt0ppLlYdka0A9X/view?usp=sharing">Know about my experiences </a> 
 
 <br>
-
 ### 🌐 Find me on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustav-sharma-ba7283214/) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sharmakaustav04)
