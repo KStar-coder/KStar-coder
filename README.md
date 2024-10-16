@@ -82,6 +82,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=KStar-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+[![An image of @sharmakaustav04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharmakaustav04)](https://holopin.io/@sharmakaustav04)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
