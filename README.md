@@ -76,7 +76,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KStar-coder&theme=vision-friendly-dark&hide_border=false)<br/>
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KStar-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
