@@ -1,5 +1,5 @@
 ![logo](https://github.com/KStar-coder/KStar-coder/blob/main/Banner2.JPG)
-<h1 align="center">Hi 👋, I'm Kaustav Sharma</h1>
+<h1 align="center">Hi 👋, I'm Kaustav</h1>
 <h3 align="center">A Tech enthusiast interested in Machine Learning and Web Development</h3>
 <h3><center>Here's my Portfolio Website displaying all my recent work</center></h3> 
 <a href="https://kaustav-sharma.vercel.app/">My Portfolio Website</a> 
